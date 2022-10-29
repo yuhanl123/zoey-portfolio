@@ -15,6 +15,7 @@ Hi everyone! This is my first profile!! Now let's get to know me~
 - View I like:🌅🍁❄️
 
 - My favourite TV series: Please reply 1988
+
 ![Image of PleaseReply1988](https://m.media-amazon.com/images/M/MV5BNDYwODdiOTItZTExZC00ZDZjLTkyODMtMWYxODVlMjQ0YjQxXkEyXkFqcGdeQXVyNjExNTE4MzU@._V1_.jpg)
 
 ## What I hope to learn
