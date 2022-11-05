@@ -29,4 +29,4 @@ Here are links that will let you know me better!
 ### Previous Work
 
 ## View another github page
-[new page](/viz2.md)
+[new page](/viz1.md)
