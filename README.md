@@ -27,3 +27,6 @@ Hi everyone! This is my first profile!! Now let's get to know me~
 Here are links that will let you know me better!
 ### Linkedin
 ### Previous Work
+
+## View another github page
+[new page](/viz2.md)
