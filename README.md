@@ -29,4 +29,4 @@ Here are links that will let you know me better!
 ### Previous Work
 
 ## View another github page
-[Debt to Gdp ratio viz](/viz1.md)
+[Assignment1-Debt to Gdp ratio viz](/viz1.md)
