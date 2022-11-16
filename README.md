@@ -31,4 +31,4 @@ Here are links that will let you know me better!
 ## View another github page
 [Assignment1-Debt to Gdp ratio viz](/viz1.md)
 
-[Assignment2-Critique by Design](/CritiquebyDesign.md)
+[Assignment2-Critique by Design](/critique.md)
