@@ -5,6 +5,9 @@ My chart is the survey based on registered voters. Share of respondents who said
 After critiquing my data visulization, I did the sketch.
 For the sketch, since I think the graph lacks the perceptibility and intuitiveness, I hope to reduce the overlapping of each issue, and make each issue clearly displayed in the chart to make the audience read the information with less effort. To achieve that, I modify the chart using the vertical line to display the number change from March to May. Then to show the change trend, I use an arrow and different colors to illustrate that information. The green arrow means the downward trend, while the blue line represents the upward trend, the dot means the same. By highlighting the different trends, the audience can more easily understand different trends of each issue.
 
+
+![image](https://user-images.githubusercontent.com/116834284/202248439-bf180a9e-1d55-4db6-b964-627907890b80.png)
+
 ## Test the solution
 I interviewed two people and they give me following suggestions. 
 -Female,20s:
