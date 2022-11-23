@@ -32,3 +32,5 @@ Here are links that will let you know me better!
 [Assignment1-Debt to Gdp ratio viz](/viz1.md)
 
 [Assignment2-Critique by Design](/critique.md)
+
+[Assignment3-Final Project](/Final Project.md)
