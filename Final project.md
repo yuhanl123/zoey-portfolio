@@ -29,4 +29,25 @@ My final project is about college students’ mental health. The reason that I c
 <img width="414" alt="image" src="https://user-images.githubusercontent.com/116834284/203451502-ca85cc41-41f3-4d97-b371-7640bad1e1a8.png">
 
 ## The data
-1. 
+1. Trends in college student mental health and help-seeking by race/ethnicity: Findings from the national healthy minds study, 2013–2021
+[Trend](https://www.sciencedirect.com/science/article/pii/S0165032722002774#bb0055)
+
+2. Some figures that show the prevalence and seriousness of mental health among college students, like how many people have the symptoms and the difference rate among young people and adults.
+[Important facts about the prevalence of mental health issues-source1](https://www.mghclaycenter.org/parenting-concerns/college-mental-health-crisis-call-cultural-change-part-2/)
+[Important facts about the prevalence of mental health issues-source2](https://www.innovativeeducators.org/blogs/edushare-higher-ed-blog-news/just-the-facts-10-concerning-mental-health-stats-about-college-students)
+
+3. Mental health by the number, this article contains many data and information about facts related to the prevalence of mental health issues in the U.S.
+[Mental health by the number](https://www.nami.org/mhstats)
+
+4. This is the listing factors that may contribute to the increasing mental health issues
+[Listing factors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7870388/#:~:text=Social%20stigma%20and%20gender%20(being,mental%20health%20among%20university%20students.&text=A%20lack%20of%20social%20support,with%20increased%20level%20of%20stress.)
+
+5. This article is about how covid-19 affects the mental health
+[Covid-19 Impact](https://www.bestcolleges.com/research/college-mental-health-impacts-from-covid-19/)
+
+
+6. Measure that campus should take to address this problem
+[Measures](https://edsource.org/2019/california-colleges-expand-mental-health-services-to-meet-rising-needs/610151)
+
+## Method and Medium
+I'm going to use Shorthand to finish my final project. I may use powerpoint or Tableau to create some visulaized graphs as supplements to include in my final project.
