@@ -33,4 +33,4 @@ Here are links that will let you know me better!
 
 [Assignment2-Critique by Design](/critique.md)
 
-[Assignment3-Final Project](/Final project.md)
+[Assignment3-Final Project](/Project.md)
