@@ -40,7 +40,8 @@ My final project is about college students’ mental health. The reason that I c
 [Mental health by the number](https://www.nami.org/mhstats)
 
 4. This is the listing factors that may contribute to the increasing mental health issues
-[Listing factors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7870388/#:~:text=Social%20stigma%20and%20gender%20(being,mental%20health%20among%20university%20students.&text=A%20lack%20of%20social%20support,with%20increased%20level%20of%20stress.)
+
+[Factors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7870388/#:~:text=Social%20stigma%20and%20gender%20(being,mental%20health%20among%20university%20students.&text=A%20lack%20of%20social%20support,with%20increased%20level%20of%20stress.)
 
 5. This article is about how covid-19 affects the mental health
 [Covid-19 Impact](https://www.bestcolleges.com/research/college-mental-health-impacts-from-covid-19/)
