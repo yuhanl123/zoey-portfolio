@@ -11,6 +11,7 @@ I made the storyboard through the shorthand, currently it contains 15 pages incl
 - 9-10: citing comic picture and image to show this problem is overlooked
 - 11: using data to support the current help and resources are needed
 - 13: point out what actions we can take
+
 The link of storyboard
 https://preview.shorthand.com/m2rFeRiK8pe3YB9T
 
@@ -29,6 +30,7 @@ Flow/Content:
 - Do you think the story’s each page correlated to each other
 - Do you think there are any missing information that you want to know but it doesn’t show
 - Do you think think there are some information that are redundant 
+
 Visualized/Interactive:
 - Do you think the story has clear chart or word to illustrate the idea
 - Do you think the layout is clear 
