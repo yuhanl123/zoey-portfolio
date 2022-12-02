@@ -45,9 +45,11 @@ Overall
 Interviewer A: male, 20s, student
 
 <img width="627" alt="image" src="https://user-images.githubusercontent.com/116834284/205147470-90c36bbc-fe94-4eca-9c42-523949855e58.png">
+
 Interviewer B: female, 20s, student
 
 <img width="625" alt="image" src="https://user-images.githubusercontent.com/116834284/205147513-7d17901c-95cc-4d08-9699-84a9a99c49a0.png">
+
 Interviewer B: female, 40s, faculty
 
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/116834284/205147561-8afa59c6-4f74-4855-b95a-c43ece0358c7.png">
