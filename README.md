@@ -35,6 +35,6 @@ Here are links that will let you know me better!
 
 [Assignment3-Final Project](/Project.md)
 
-[Assignment4-storyboard](/story board.md)
+[Assignment4-storyboard](/project storyboard.md)
 
 [Assignment5-storyboard](/Final.md)
